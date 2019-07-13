@@ -16,7 +16,7 @@ There are so many introductory tutorials for using [Git](https://git-scm.com/doc
 ### Contributing
 If you have suggestions for improving this tutorial, read more on raising an [Issue](https://guides.github.com/features/issues/) or submitting a [Pull Request](https://help.github.com/en/articles/about-pull-requests).
 
-### More resources
+### A non-comprehensive resource list
   * A [free course on Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775) to get started using Git and GitHub
   * The Google Drive for [markdown and text](https://stackedit.io/) documents
   * Some [tools and workflows](https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3) to enhance your GitHub experience
