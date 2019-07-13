@@ -22,5 +22,7 @@ If you have suggestions for improving this tutorial, read more on raising an [Is
   * Some [tools and workflows](https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3) to enhance your GitHub experience
   * A useful cheatsheet for writing in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * Holy crap, GitHub [browser extensions](https://github.com/collections/github-browser-extensions)!
+  * Create an [academic website](https://github.com/academicpages/academicpages.github.io) using GitHub
+  * A list of [programming tutorials and project ideas](https://github.com/tuvtran/project-based-learning#python)
   
   
