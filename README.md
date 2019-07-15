@@ -5,7 +5,7 @@ So you've been working on some cool visualization pipeline or new machine learni
 
 The short answer: Git and GitHub
 
-These [version control](https://www.atlassian.com/git/tutorials/what-is-version-control) tools allow teams of people to do the following: 
+These [version control](https://www.atlassian.com/git/tutorials/what-is-version-control) tools allow developers to do the following: 
   * manage changes in source code over time
   * download the latest version of your project
   * upload their improvements on your project / share code
