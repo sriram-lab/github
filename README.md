@@ -1,5 +1,4 @@
 # Using Git and GitHub for research and software development
-Author: Scott Campit
 
 ### Why use Git and GitHub?
 So you've been working on some cool visualization pipeline or new machine learning algorithm that can help a bunch of people in lab, is necessary for a programming project, or is the software package you're publishing. You can send the source code files by email or Google Drive. But what if you make changes that make the software even more useful. And even worse - other people have also contributed to your code, creating several versions of the same file. How can you compile all of these different file versions to one (hopefully) working script? 
