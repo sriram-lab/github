@@ -1,11 +1,15 @@
 # Using Git and GitHub for research and software development
 
 ### Why use Git and GitHub?
-So you've been working on some cool visualization pipeline or new machine learning algorithm that can help a bunch of people in lab, is necessary for a programming project, or is the software package you're publishing. You can send the source code files by email or Google Drive. But what if you make changes that make the software even more useful. And even worse - other people have also contributed to your code, creating several versions of the same file. How can you compile all of these different file versions to one (hopefully) working script? 
+So you've been working on some cool visualization pipeline or new machine learning algorithm that can help a bunch of people in lab, is necessary for a programming project, or is the software package you're publishing. You can send the source code files by email or Google Drive. But what if you and others wanted to make changes that would make the software even more useful? Or worse - other people have already contributed to your code, creating several versions of the same file and you want to get the best version out to the public. How can you compile all of these different file versions to one (hopefully) working script? 
 
-Git. And GitHub.
+The short answer: Git and GitHub
 
-These [version control](https://www.atlassian.com/git/tutorials/what-is-version-control) tools allow teams of people to manage changes in source code over time. Anyone can download the latest version of your project. Also, anyone can upload their improvements on your project, making it super easy to share code. Finally, it save your code as you add onto this database, so if you or your teammates introduce bugs into the source code, you can re-wind the clock and download the latest working version. 
+These [version control](https://www.atlassian.com/git/tutorials/what-is-version-control) tools allow teams of people to do the following: 
+  * manage changes in source code over time
+  * download the latest version of your project
+  * upload their improvements on your project / share code
+  * save multiple versions of your code as you add onto this database, so if you or your teammates introduce bugs into the source code, you can re-wind the clock and download the latest working version. 
 
 These are just a few of the many positive aspects of version control. For a more in-depth discussion, you can read the official documentation (which I **highly** encourage you to do), but this repository is meant to be a functional guide to quickly using Git and GitHub for your research project.
 
