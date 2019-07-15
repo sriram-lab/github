@@ -14,9 +14,9 @@ These [version control](https://www.atlassian.com/git/tutorials/what-is-version-
 These are just a few of the many positive aspects of version control. For a more in-depth discussion, you can read the official documentation (which I **highly** encourage you to do), but this repository is meant to be a functional guide to quickly using Git and GitHub for your research project.
 
 ### Why another GitHub tutorial?
-There are so many introductory tutorials for using [Git](https://git-scm.com/docs) and [GitHub](https://guides.github.com/activities/hello-world/). This can be daunting to read through, compile, and quickly apply to research projects. My goal is to create a concise, step-by-step resource for maintaining your software projects on GitHub.
+There are so many introductory tutorials for using [Git](https://git-scm.com/docs) and [GitHub](https://guides.github.com/activities/hello-world/). This can be daunting to read through, compile, and quickly apply to research projects. My goal is to create a concise, step-by-step resource for maintaining your software projects on GitHub that you can apply in a couple of minutes to a few hours after learning the basics.
 
-Everything can be found on the [Wiki tab for this repository](https://github.com/sriram-lab/github/wiki).
+All the tutorials and resources can be found on the [Wiki tab for this repository](https://github.com/sriram-lab/github/wiki).
 
 ### Contributing
 If you have suggestions for improving this tutorial, read more on raising an [Issue](https://guides.github.com/features/issues/) or submitting a [Pull Request](https://help.github.com/en/articles/about-pull-requests).
