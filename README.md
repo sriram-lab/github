@@ -19,7 +19,7 @@ So you've been working on some cool visualization pipeline or new machine learni
 
 You can send the source code files by email or Google Drive. But what if you and others wanted to make changes that would make the software even more useful? Or worse - other people have already contributed to your code, creating several versions of the same file and you want to get the best version out to the public. How can you compile all of these different file versions to one (hopefully) working script? 
 
-#####Git and GitHub allow developers to do the following: 
+##### Git and GitHub allow developers to do the following: 
   * manage changes in source code over time
   * download the latest version of your project
   * upload their improvements on your project / share code
